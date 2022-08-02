@@ -34,7 +34,7 @@ main {
 }
 
 .left {
-  width: 52rem;
+  width: 50rem;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -42,7 +42,7 @@ main {
 
 .right {
   width: 52rem;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 /* ELEMENTS STYLE */
